@@ -144,8 +144,9 @@ The database contains the following fields:
 ### API endpoints
 ![API endpoints](screenshots/api-endpoints.png)
 
-### Student list
-![Student list response](screenshots/student-list-200.png)
+### Create request body
+
+![Create student request body](screenshots/create-request-body.png.png)
 
 ### Create student
 ![Successful student creation](screenshots/create-student-201.png)
