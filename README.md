@@ -142,16 +142,16 @@ The database contains the following fields:
 ## Screenshots
 
 ### API endpoints
-![API endpoints](screenshots/01-api-endpoints.png)
+![API endpoints](screenshots/api-endpoints.png)
 
 ### Student list
-![Student list response](screenshots/02-student-list-200.png)
+![Student list response](screenshots/student-list-200.png)
 
 ### Create student
-![Successful student creation](screenshots/03-create-student-201.png)
+![Successful student creation](screenshots/create-student-201.png)
 
 ### Student IDs in terminal
-![Student IDs in terminal](screenshots/04-terminal-student-ids.png)
+![Student IDs in terminal](screenshots/terminal-student-ids.png)
 
 ## Error Handling
 
