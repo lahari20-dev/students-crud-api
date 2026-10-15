@@ -149,9 +149,7 @@ The database contains the following fields:
 
 ### Create student
 ![Successful student creation](screenshots/create-student-201.png)
-
-### Student IDs in terminal
-![Student IDs in terminal](screenshots/terminal-student-ids.png)
+ ![Student IDs in terminal](screenshots/terminal-student-ids.png)
 
 ## Error Handling
 
